@@ -84,5 +84,4 @@ public class P34_ProtectedEmployee {
          
         sc.close();
     }
-    
 }

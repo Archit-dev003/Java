@@ -112,9 +112,7 @@ public class P35_BankAccountSystem {
             
             S[i] = new SavingAccount(accountNum, branch, name);
             System.out.println();
-            // System.out.print("Enter the balance: ");
-            // double balance = sc.nextDouble();
-            // S[i].setBalance(balance);
+            
         }
 
         int select = 1;

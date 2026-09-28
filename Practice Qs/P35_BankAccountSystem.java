@@ -23,7 +23,6 @@ class BankAccount
     {
         this.balance = balance;
     }
-
 }
 
 class SavingAccount extends BankAccount

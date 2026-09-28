@@ -116,6 +116,7 @@ public class P36_TransportManagement {
                 V[i] = new Bus(vehicleNum, baseFair, seats);
                 System.out.println();
             }
+                
             else if(type == 2)
             {
                 System.out.print("Enter the Vehicle Number: ");

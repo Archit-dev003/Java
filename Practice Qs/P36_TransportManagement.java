@@ -150,7 +150,6 @@ public class P36_TransportManagement {
         }
         System.out.println("----Highest Fair----");
         V[index].printDetails();
-        
         sc.close();
     }    
 }

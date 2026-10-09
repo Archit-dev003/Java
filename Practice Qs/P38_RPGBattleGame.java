@@ -463,5 +463,6 @@ public class P38_RPGBattleGame {
             }
         }
         sc.close();
+        
     }
 }

@@ -179,6 +179,7 @@ public class P41_RacingSim {
                 }
             }
             System.out.println();
-        }     
+        } 
+        sc.close();
     }
 }

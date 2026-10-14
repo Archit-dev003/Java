@@ -206,6 +206,7 @@ public class P37_OnlineOrderSystem {
         
         System.out.println();
         System.out.println("Lowest Order: ");
+        
         O[index].printDetails();
         try {
             Thread.sleep(1000);

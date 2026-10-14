@@ -19,6 +19,7 @@ public class P43_StringManipualtion {
                 }
                 start = i+1;
             }
+            
             end = i;
         }
         System.out.println(S);

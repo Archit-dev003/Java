@@ -1,2 +1,2 @@
 # Java
-Concepts of java and DSA
+Concepts of java(Core and Advance) and DSA

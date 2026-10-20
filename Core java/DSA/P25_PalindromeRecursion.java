@@ -21,6 +21,7 @@ public class P25_PalindromeRecursion {
         } else {
             System.out.println("Is not a Palindrome");
         }
+        
         scanner.close();
     }
 }

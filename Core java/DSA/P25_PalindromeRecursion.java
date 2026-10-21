@@ -6,6 +6,7 @@ public class P25_PalindromeRecursion {
         if (forward >= backward) {
             return true;
         }
+        
         if (value.charAt(forward) != value.charAt(backward)) {
             return false;
         }
@@ -20,8 +21,7 @@ public class P25_PalindromeRecursion {
             System.out.println("Is a Palindrome");
         } else {
             System.out.println("Is not a Palindrome");
-        }
-        
+        } 
         scanner.close();
     }
 }

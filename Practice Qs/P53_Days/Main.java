@@ -7,5 +7,6 @@ public class Main {
             System.out.print(D);
             d.getDays();
         }
+        sc.close();
     }
 }

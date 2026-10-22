@@ -41,9 +41,9 @@ public class Days {
             case SUNDAY:
                 System.out.println(" - Weekend");
                 break;
-        
             default:
                 break;
+                
         }
     }
 }
